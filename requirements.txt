@@ -1,0 +1,6 @@
+numpy==1.20.3
+scikit-learn==0.24.2
+tkinter==8.6
+opencv-python==4.5.3.56
+pillow==8.3.1
+os-sys==1.0.0
